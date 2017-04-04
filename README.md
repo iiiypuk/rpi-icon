@@ -6,7 +6,8 @@ __Rasberry Pi multi-res ICO without (r) logo__
 | w(r) | (r) |
 
 __File list info__
-- `(16...256).png` - PNG images
+- `(16...650).png` - PNG images
+- `Pi.ico` - mutli-res icon (32, 48, 64, 128)
 - `Pi.ifx` - IcoFX project
 
 __Trademark rules and brand guidelines__  
